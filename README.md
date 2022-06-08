@@ -6,7 +6,7 @@ This an appliation that uses a social media structure to share new custom pizza 
 
 ## Table of Contents
   - [Usage](#Usage)
-  - [Technology Used](#technology-used)
+  - [Technologies Used](#Technologies Used)
   - [Questions](#Questions)
 
 ## Usage
