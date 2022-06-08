@@ -6,13 +6,13 @@ This an appliation that uses a social media structure to share new custom pizza 
 
 ## Table of Contents
   - [Usage](#Usage)
-  - [Technologies Used](#technology-used)
+  - [Technology Used](#technology-used)
   - [Questions](#Questions)
 
 ## Usage
 
 You can click [HERE](https://fierce-falls-54250.herokuapp.com/) to access the app
-## Technologies-Used
+## Technology Used
 * MongoDB
 * JavaScript
 * Node.js
