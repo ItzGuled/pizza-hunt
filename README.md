@@ -22,4 +22,4 @@ You can click [HERE](https://fierce-falls-54250.herokuapp.com/) to access the ap
 * Heroku
 
 ## Questions
-If you have any Questions, reach me at [Email](guledlosman@gmail.com), [Github](https://github.com/ItzGuled/pizza-hunt)
+If you have any Questions, reach me at [Github](https://github.com/ItzGuled/pizza-hunt)
