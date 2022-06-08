@@ -2,7 +2,7 @@
 
 ## Description 
 
-This an appliation that uses a social media structure to share new custom pizza recipes. A user can create their own pizzas using many of the existing toppings or even add their own. This app uses a NoSQL database.
+This is an appliation that uses a social media structure to share new custom pizza recipes. A user can create their own pizzas using many of the existing toppings or even add their own. This app uses a NoSQL database.
 
 ## Table of Contents
   - [Usage](#Usage)
